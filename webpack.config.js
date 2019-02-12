@@ -26,6 +26,7 @@ var config = {
         loaders: [
           'style-loader',
           'css-loader?modules',
+          'postcss-loader',
         ]
       }
     ],
